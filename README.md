@@ -4,7 +4,7 @@
 
 ## 🎯 Project Overview
 
-I developed **IntelliMail** as a cutting-edge AI-powered email client that transforms how users interact with their email. This full-stack application combines modern web technologies with advanced AI capabilities to create an intelligent, efficient, and user-friendly email management experience.
+I developed **AI Email Agent** as a cutting-edge AI-powered email client that transforms how users interact with their email. This full-stack application combines modern web technologies with advanced AI capabilities to create an intelligent, efficient, and user-friendly email management experience.
 
 ### ✨ What Makes This Special
 
