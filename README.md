@@ -2,13 +2,12 @@
 
 <div align="center">
 
-![Normal Human Banner](https://github.com/user-attachments/assets/03580ec6-99f0-4f3e-8a0d-141e15d2e17b)
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://stripe.com/)
+
 
 **A minimalistic, AI-powered email client that revolutionizes email management**
 
@@ -60,7 +59,6 @@ I developed **IntelliMail** as a cutting-edge AI-powered email client that trans
 - **Privacy Controls** - Granular permissions and data access controls
 
 ### 💼 Premium Features
-- **Subscription Management** - Stripe-powered payment processing
 - **Usage Analytics** - Detailed insights into email patterns and productivity
 - **Priority Support** - Enhanced customer service for premium users
 - **Advanced AI Models** - Access to latest GPT models and features
@@ -92,8 +90,6 @@ I developed **IntelliMail** as a cutting-edge AI-powered email client that trans
 ### External Services
 - **[Aurinko API](https://aurinko.io/)** - Email provider integration
 - **[Clerk](https://clerk.com/)** - Authentication and user management
-- **[Stripe](https://stripe.com/)** - Payment processing
-- **[Vercel](https://vercel.com/)** - Deployment and hosting
 
 ### Development Tools
 - **[ESLint](https://eslint.org/)** - Code linting
@@ -280,7 +276,7 @@ intellimail/
 
 ## 🌐 Deployment
 
-### Vercel Deployment (Recommended)
+### Vercel Deployment
 
 1. **Connect Repository**
    ```bash
@@ -352,27 +348,6 @@ npx prisma migrate deploy
 
 ---
 
-## 🤝 Contributing
-
-I welcome contributions to make IntelliMail even better! Here's how you can help:
-
-### Getting Started
-
-1. **Fork the repository**
-2. **Create a feature branch** - `git checkout -b feature/amazing-feature`
-3. **Make your changes** - Follow the development guidelines
-4. **Test thoroughly** - Ensure everything works as expected
-5. **Commit changes** - `git commit -m 'Add amazing feature'`
-6. **Push to branch** - `git push origin feature/amazing-feature`
-7. **Open a Pull Request**
-
-### Contribution Guidelines
-
-- 📝 **Clear descriptions** - Explain what your changes do
-- 🧪 **Test coverage** - Include tests for new features
-- 📚 **Documentation** - Update docs for significant changes
-- 🎨 **Code style** - Follow existing patterns and conventions
-- 🐛 **Bug reports** - Include reproduction steps and environment details
 
 ### Development Setup
 
@@ -403,29 +378,5 @@ I built IntelliMail using these excellent tools and services:
 - **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework
 
 ---
-
-## 📞 Contact & Support
-
-I'd love to hear from you! Whether you have questions, feedback, or just want to connect:
-
-- **Email**: [faahim06@gmail.com](mailto:faahim06@gmail.com)
-- **GitHub**: [@insertfahim](https://github.com/insertfahim)
-- **Issues**: [Report a bug or request a feature](https://github.com/insertfahim/intellimail/issues)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-**Built with ❤️ by [Fahim](https://github.com/insertfahim)**
-
-If you found this project helpful, please consider giving it a ⭐️!
-
-</div>
 
 
