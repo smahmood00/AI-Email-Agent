@@ -11,8 +11,6 @@
 
 **A minimalistic, AI-powered email client that revolutionizes email management**
 
-[🌟 Live Demo](#) • [📖 Documentation](#installation) • [🐛 Report Bug](https://github.com/insertfahim/intellimail/issues) • [💡 Request Feature](https://github.com/insertfahim/intellimail/issues)
-
 </div>
 
 ---
@@ -139,7 +137,7 @@ graph TB
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/insertfahim/intellimail.git
+git clone https://github.com/smahmood00/AI-Email-Agent.git
 cd intellimail
 ```
 
